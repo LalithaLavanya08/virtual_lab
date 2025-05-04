@@ -1,8 +1,10 @@
-# virtual_lab
+# VIRTUAL LAB FOR DRUG DISCOVERY 🧪 
 This README.md file provides a comprehensive overview of the project, its features, and how to execute it. Let me know if you need further modifications!
+
+Architecture 1:
 ![im png](https://github.com/user-attachments/assets/9dd122be-7735-4ea6-8d34-ac27574ddf71)
 
-
+Architecture 2:
 ![image](https://github.com/user-attachments/assets/7ed001f6-22b5-413e-bfeb-e08afea6b83a)
 
 # Team Name [AI synergy]
