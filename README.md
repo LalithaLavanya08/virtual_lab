@@ -91,23 +91,28 @@ This project was developed by a dedicated team of contributors:
 [Contributor 4 Name]: 
 # Images
 **Screenshot 1: Research Assistant**
+**Feature 1**
 ![image](https://github.com/user-attachments/assets/3e7c124d-29c5-4a57-8fb3-62bdaa1b31be)
 
 **Screenshot 2: Nanobody Design Lab**
+**Feature 2**
 ![image](https://github.com/user-attachments/assets/5013eced-a78b-484c-a382-fbbe08c55a77)
 
 ![image](https://github.com/user-attachments/assets/7474bd5c-674f-4019-bdf9-64926167ffa2)
 
 **Screenshot 3: Result Analysis and Metrics**
+**Feature 3**
 ![image](https://github.com/user-attachments/assets/26cdb7ef-c13d-4356-8ac8-54969c6a0c89)
 
 **Example Output** :
 ![image](https://github.com/user-attachments/assets/331a846a-8c60-4b7b-a237-d802b7e1b441)
 
 **Screenshot 4: Experimental Data Correlation**
+**Feature 4**
 ![image](https://github.com/user-attachments/assets/9d9629ca-aaf4-41da-913e-07ba7451e447)
 
 **Screenshot 5: Molecular Structure Prediction**
+**Feature 5**
 ![image](https://github.com/user-attachments/assets/33158812-2f20-493f-a28d-4ad2e25ae88e)
 
 **Example Output**:
