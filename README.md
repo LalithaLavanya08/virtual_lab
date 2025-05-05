@@ -49,7 +49,7 @@ Assigned Industry Use Case: Pharmaceuticals and Biotechnology
 
 **Academics**: For studying protein-nanobody interactions and designing experiments.
 
-It can be applied in scenarios such as:
+## It can be applied in scenarios such as:
 
 **Scenario 1**: Designing nanobodies for targeting disease-related proteins.
 
