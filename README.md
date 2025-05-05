@@ -143,7 +143,7 @@ This project was developed by a dedicated team of contributors:
   - Streamlit Markdown
 - **Deployment**:
   - Docker (for containerization and consistent deployment)
- - **Other Utilities**
+- **Other Utilities**
   - TQDM: For progress bars in loops.
   - Pillow: For image processing.
   - Base64: For encoding/decoding binary data.
