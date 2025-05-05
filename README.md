@@ -71,7 +71,7 @@ This project was developed by a dedicated team of contributors:
 ![image](https://github.com/user-attachments/assets/3e7c124d-29c5-4a57-8fb3-62bdaa1b31be)
 
 **Screenshot 2: Nanobody Design Lab**
-![image](https://github.com/user-attachments/assets/98c20f83-21b1-4a05-bd49-2148650bf63d)
+![image](https://github.com/user-attachments/assets/5013eced-a78b-484c-a382-fbbe08c55a77)
 
 ![image](https://github.com/user-attachments/assets/7474bd5c-674f-4019-bdf9-64926167ffa2)
 
