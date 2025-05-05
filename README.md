@@ -1,10 +1,10 @@
 # VIRTUAL LAB FOR DRUG DISCOVERY 🧪 
 This README.md file provides a comprehensive overview of the project, its features, and how to execute it. Let me know if you need further modifications!
 
-Architecture 1:
+**Architecture 1**:
 ![im png](https://github.com/user-attachments/assets/9dd122be-7735-4ea6-8d34-ac27574ddf71)
 
-Architecture 2:
+**Architecture 2**:
 ![image](https://github.com/user-attachments/assets/7ed001f6-22b5-413e-bfeb-e08afea6b83a)
 
 # Team Name [AI synergy]
@@ -15,51 +15,57 @@ Welcome to our project submission for the Agentic AI incubation! This repository
 # Explanation
 Our project leverages cutting-edge technologies such as Azure OpenAI GPT, Streamlit, Py3Dmol, and RDKit to create an interactive web application. The core functionality includes:
 
-Feature 1: Virtual Research Assistant for answering complex drug discovery queries.
+**Feature 1**: Virtual Research Assistant for answering complex drug discovery queries.
 
-Feature 2: Nanobody Design Lab for simulating team discussions and generating detailed reports.
+**Feature 2**: Nanobody Design Lab for simulating team discussions and generating detailed reports.
 
-Feature 3: Result Analysis and Metrics for visualizing nanobody design metrics across multiple rounds.
+**Feature 3**: Result Analysis and Metrics for visualizing nanobody design metrics across multiple rounds.
 
-Feature 4: Experimental Data Correlation for analyzing computational predictions against experimental results.
+**Feature 4**: Experimental Data Correlation for analyzing computational predictions against experimental results.
 
-Feature 5: Molecule Structure Prediction for generating and analyzing 3D structures of proteins and nanobody molecules.
+**Feature 5**: Molecule Structure Prediction for generating and analyzing 3D structures of proteins and nanobody molecules.
 
 # Intent
 The primary intent of our project is to accelerate drug discovery and nanobody design by integrating AI-driven insights with experimental data. We aim to provide researchers with a comprehensive platform for analyzing, visualizing, and improving nanobody designs.
 
 ## 🌟 Why Choose Virtual Lab?
-Accelerated Drug Discovery: By integrating AI-driven insights with experimental data, this platform can significantly reduce the time required for drug discovery without human intervention.
+**Accelerated Drug Discovery**: By integrating AI-driven insights with experimental data, this platform can significantly reduce the time required for drug discovery without human intervention.
 
-Interactive Visualizations: Provides intuitive and interactive dashboards for analyzing nanobody designs and experimental results, enabling researchers to make data-driven decisions effortlessly.
+**Interactive Visualizations**: Provides intuitive and interactive dashboards for analyzing nanobody designs and experimental results, enabling researchers to make data-driven decisions effortlessly.
 
-Collaborative Research: Simulates team discussions and decision-making processes autonomously, ensuring better collaboration and alignment among virtual agents.
+**Collaborative Research**: Simulates team discussions and decision-making processes autonomously, ensuring better collaboration and alignment among virtual agents.
 
-Comprehensive Analysis: Combines computational predictions with experimental data for a holistic approach to nanobody design, eliminating the need for manual analysis.
+**Comprehensive Analysis**: Combines computational predictions with experimental data for a holistic approach to nanobody design, eliminating the need for manual analysis.
 
-Scalability: Designed to handle large datasets and complex workflows, making it suitable for academic, industrial, and pharmaceutical research environments.
+**Scalability**: Designed to handle large datasets and complex workflows, making it suitable for academic, industrial, and pharmaceutical research environments.
 
 # Use Case
 Assigned Industry Use Case: Pharmaceuticals and Biotechnology
 
 # Our solution is designed to be used by:
-Researchers: For analyzing nanobody designs and improving therapeutic efficacy.
+**Researchers**: For analyzing nanobody designs and improving therapeutic efficacy.
 
-Pharmaceutical Companies: For accelerating drug discovery workflows.
+**Pharmaceutical Companies**: For accelerating drug discovery workflows.
 
-Academics: For studying protein-nanobody interactions and designing experiments.
+**Academics**: For studying protein-nanobody interactions and designing experiments.
+
 It can be applied in scenarios such as:
 
-Scenario 1: Designing nanobodies for targeting disease-related proteins.
-Scenario 2: Visualizing and analyzing experimental data for nanobody efficacy.
-Scenario 3: Generating 3D molecular structures for drug discovery.
+**Scenario 1**: Designing nanobodies for targeting disease-related proteins.
+
+**Scenario 2**: Visualizing and analyzing experimental data for nanobody efficacy.
+
+**Scenario 3**: Generating 3D molecular structures for drug discovery.
 # Contributors
 This project was developed by a dedicated team of contributors:
 
-[Contributor 1 Name]: Lead Developer
-[Contributor 2 Name]: Data Scientist
-[Contributor 3 Name]: Molecular Biologist
-[Contributor 4 Name]: AI Specialist
+[Contributor 1 Name]: 
+
+[Contributor 2 Name]: 
+
+[Contributor 3 Name]: 
+
+[Contributor 4 Name]: 
 # Images
 **Screenshot 1: Research Assistant**
 ![image](https://github.com/user-attachments/assets/3e7c124d-29c5-4a57-8fb3-62bdaa1b31be)
@@ -82,30 +88,38 @@ This project was developed by a dedicated team of contributors:
 ![image](https://github.com/user-attachments/assets/33158812-2f20-493f-a28d-4ad2e25ae88e)
 
 **Example Output**:
-![image](https://github.com/user-attachments/assets/8cb22a98-7c29-4d31-a41f-c11e0b26284b)
+![Screenshot (114)](https://github.com/user-attachments/assets/4c128345-8301-4074-9c85-4e926b59a4ce)
 
 # Implementation
-Architecture
-Frontend: Built using Streamlit for an interactive user interface.
-Backend: Powered by Azure OpenAI GPT for generating insights and analyzing data.
-Data Visualization: Uses Seaborn and Matplotlib for creating plots.
-3D Visualization: Utilizes Py3Dmol and RDKit for rendering molecular structures.
+
+**Architecture**
+**Frontend**: Built using Streamlit for an interactive user interface.
+
+**Backend**: Powered by Azure OpenAI GPT for generating insights and analyzing data.
+
+**Data Visualization**: Uses Seaborn and Matplotlib for creating plots.
+
+**3D Visualization**: Utilizes Py3Dmol and RDKit for rendering molecular structures.
 
 # Workflow
-User Input: Users provide queries or disease names.
-Agent Collaboration: Specialized agents collaborate to generate insights.
-Data Fetching: Fetches sequences, structures, and experimental data.
-Visualization: Generates plots and 3D visualizations for analysis.
-Reporting: Summarizes findings and provides actionable insights.
+**User Input**: Users provide queries or disease names.
+
+**Agent Collaboration**: Specialized agents collaborate to generate insights.
+
+**Data Fetching**: Fetches sequences, structures, and experimental data.
+
+**Visualization**: Generates plots and 3D visualizations for analysis.
+
+**Reporting**: Summarizes findings and provides actionable insights.
 
 ## 📈 Benefits
-Efficiency: Reduces the time required for drug discovery and nanobody design by automating workflows.
+**Efficiency**: Reduces the time required for drug discovery and nanobody design by automating workflows.
 
-Accuracy: Combines computational and experimental data for precise analysis without manual intervention.
+**Accuracy**: Combines computational and experimental data for precise analysis without manual intervention.
 
-Collaboration: Simulates team discussions for better decision-making among virtual agents.
+**Collaboration**: Simulates team discussions for better decision-making among virtual agents.
 
-Scalability: Handles large datasets and complex workflows seamlessly.
+**Scalability**: Handles large datasets and complex workflows seamlessly.
 ## 🛠️ Tech Stack
  
 - **Programming Language**: <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
