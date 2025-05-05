@@ -40,7 +40,30 @@ The primary intent of our project is to accelerate drug discovery and nanobody d
 **Scalability**: Designed to handle large datasets and complex workflows, making it suitable for academic, industrial, and pharmaceutical research environments.
 
 # Use Case
-Assigned Industry Use Case: Pharmaceuticals and Biotechnology
+
+**Life Sciences: Virtual Lab**
+
+Virtual research assistant that demonstrate how a multi-agent system can replicate the capabilities of an interdisciplinary research team. The virtual research assistant could answer complex research questions by designing workflows and reason across multiple fields of science to make a series of interrelated decisions. The multi-agent system should demonstrate the ability to interface with lab equipment and/or simulate experiments without lab equipment requirement but should show the ability to agree on an experimental design, interrogate results and come to a scientific conclusion that is related to the hypothesis. 
+
+# Challenges/Objective
+
+Scientists often spend 20%+ of their time in designing experiments and exploring vast amounts of workflows and data. This involves accessing multiple systems, models, and documents.​
+
+To solve this problem, technology providers attempted to deploy GenAI solutions but faced many issues such as: model hallucination and inability to understand context. On the other hand, a multi-agentic system can cope with varying degrees of complexity in research and augment scientists' day to day work.​
+
+The objective of the virtual research assistant is to revolutionize the current ways of working and automate parts for the scientific research process.
+
+# Solution
+
+A multi-agentic system with a user-friendly interface. The virtual research scientist uses the power of a multi-task LLM agent to augment scientists work and build accurate research workflows. The multi-agent system needs to demonstrate the following:​
+
+Ability to build out scientific reasoning capability (through different agents working together and/or utilization of scientific models)​
+
+Call-outs to at least one specialized scientific tool (e.g. small or large molecule modelling tools)​
+
+Accessing key scientific data bases (e.g. biobanks, pdb, pubmed)​
+
+A feedback loop that demonstrates how the system may learn
 
 # Our solution is designed to be used by:
 **Researchers**: For analyzing nanobody designs and improving therapeutic efficacy.
